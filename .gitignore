@@ -1,0 +1,22 @@
+/.quarto/
+**/*.quarto_ipynb
+
+# macOS
+.DS_Store
+
+# R
+.RData
+.Rhistory
+.Ruserdata
+
+# Editor
+.vscode/
+*.swp
+
+# Quarto & LaTeX
+_freeze/
+*.fdb_latexmk
+*.fls
+*.log
+*.aux
+*.out

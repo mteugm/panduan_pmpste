@@ -1,0 +1,13 @@
+# Kata Pengantar {.unnumbered}
+
+Puji syukur kami panjatkan ke hadirat Tuhan Yang Maha Kuasa atas segala rahmat dan kasihnya, Program Magister Program Studi Teknik Elektro (PMPSTE) telah berhasil menyelesaikan naskah Kurikulum 2022 Versi Revisi-2. Bagi PMPSTE, Naskah Kurikulum 2022 Versi Revisi-2 ini merupakan dokumen vital yang akan menjadi panduan untuk meraih tujuan program studi guna menghasilkan lulusan sebagaimana diharapkan oleh visi-misi Universitas Gadjah Mada, Fakultas Teknik, dan Departemen Teknik Elektro dan Teknologi Informasi sebagai induk organisasinya. Bidang Teknik Elektro merupakan bidang ilmu yang memicu kemajuan peradaban terkini. Dinamika kemajuan peradaban kontemporer yang luar biasa dipengaruhi oleh kemajuan ilmu ini. Kurikulum 2022 Versi Revisi-2 lahir dalam masa transisi menuju era baru yaitu era disrupsi. Keadaan ini memaksa banyak sektor, termasuk pendidikan, untuk melihat kembali tata-nilai yang selama ini dianut dan dipraktikkan. Terjadi banyak perubahan di sekitar kita baik karena hal-hal yang telah dikenali sebelumnya maupun oleh hal yang sama sekali baru. Suasana inilah yang mendominasi latar belakang kelahiran Kurikulum 2022 Versi Revisi-2 PMPSTE. Kurikulum ini disusun agar lulusan PMPSTE siap menghadapi era baru, mampu beradaptasi terhadap perubahan dan mampu mengikuti dinamika kemajuan teknologi di bidang ilmu Teknik Elektro sehingga selalu berada di depan dalam mengikuti perkembangan zaman. Pengurus dan tim penyusun kurikulum berterima kasih kepada semua pihak yang membantu menyelesaikan Kurikulum 2022 Versi Revisi-2 PMPSTE ini. Semoga dengan kurikulum ini PMPSTE semakin maju dan berkualitas tinggi, serta mampu menjadi sumber inovasi yang universal di bidang Teknik Elektro untuk kepentingan bangsa dan kemanusiaan dijiwai nilai-nilai bangsa berdasarkan Pancasila. Semoga Allah subhanahu wa ta ala membalas dengan balasan yang lebih baik.
+
+::: {style="margin-top: 2em;"}
+Yogyakarta, 19 Oktober 2025
+
+Ketua Departemen
+
+<br>
+
+**Prof. Ir. Hanung Adi Nugroho, S.T., M.Eng., Ph.D., IPM., SMIEEE.**
+:::

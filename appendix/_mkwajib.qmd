@@ -1,0 +1,9 @@
+# Silabus Mata Kuliah Wajib
+
+:::: text-center
+::: {style="width: 100%; max-width: 800px; margin: 0 auto;"}
+![](files/rpkps_mkwajib.pdf){width="100%" style="height: 75vh; min-height: 400px;"}
+:::
+
+[<i class="bi bi-download"></i> Unduh Silabus Mata Kuliah Wajib (PDF)](files/rpkps_mkwajib.pdf){.btn .btn-outline-danger .btn-sm .mt-4 role="button"}
+::::

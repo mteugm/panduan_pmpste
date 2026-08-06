@@ -1,0 +1,10 @@
+## Rumusan Profil Lulusan (PL)
+
+Pengembangan kurikulum Program Magister Program Studi Teknik Elektro (PMPSTE) dilakukan agar tetap memenuhi visi dan misi program studi dengan memperhatikan kondisi departemen, sumber daya, dan pengguna lulusan. Kurikulum disusun secara lengkap mencakup profil lulusan, capaian pembelajaran lulusan, pemetaan capaian pembelajaran lulusan terhadap bahan kajian dan mata kuliah. @tbl-graduate-profile menunjukkan profil lulusan PMPSTE yang akan dituju dengan Kurikulum 2022 Versi Revisi-2.
+
+| No | Profil Lulusan | Deskripsi Profil |
+|:--:|:---|:---|
+| 1. | Akademisi dan/atau peneliti | a. Menjadi Peneliti yang kompeten di bidangnya, mampu bekerja-sama dalam tim maupun secara individu, menjunjung tinggi standar etika ilmiah, dan bersemangat dalam belajar sepanjang hayat.<br><br>b. Menjadi Akademisi yang kompeten di bidangnya dan memiliki jiwa kepemimpinan yang baik, standar etika yang tinggi dan pembelajaran seumur hidup dalam suatu instansi pendidikan, misalnya universitas, politeknik, dan institut. |
+| 2. | Profesional | a. Profesional yang mampu mengatasi permasalahan di industri sesuai dengan bidangnya berdasarkan cara berpikir yang terstruktur dan ilmiah, mampu mengungkapkan ide-idenya secara efektif, dan dapat bekerja dalam tim maupun secara individu.<br><br>b. Pegawai yang profesional di bidangnya yang mampu memadukan Teknik Elektro dengan aspek-aspek manajemen lainnya sehingga dapat memaksimalkan pencapaian tujuan instansi pemerintahan. |
+
+:Profil Lulusan Program Magister Program Studi Teknik Elektro {#tbl-graduate-profile tbl-colwidths="[5,25,70]"}

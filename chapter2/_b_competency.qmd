@@ -1,0 +1,149 @@
+## Rumusan Standar Kompetensi Lulusan (SKL) dan Capaian Pembelajaran Lulusan (CPL)
+
+### Standar Kompetensi Lulusan (SKL) {#sec-standard-competency}
+
+SKL Program Magister Program Studi Teknik Elektro (PMPSTE) menjabarkan mengenai standar kompetensi yang dimiliki oleh lulusan yang akan menjadi profil profesional yang dimiliki setelah mereka menjadi alumni dengan durasi berkisar tiga hingga lima tahun. Dengan mempertimbangkan visi dan misi UGM (sebagaimana dijelaskan di @sec-introduction), jenjang KKNI dan SNPT serta masukan dari alumni, pengguna, ataupun advisory boards terkait, terdapat dua standar kompetensi lulusan (SKL) yang diharapkan:
+
+1.  #SKL1 Karakter (Character): Memiliki jiwa kepemimpinan yang baik, standar etika yang tinggi dan pembelajaran seumur hidup untuk menjaga keunggulan dalam inovasi. (Having a strong leadership, high standard of ethics, and lifelong learning to maintain excellence in innovation.)
+
+2.  #SKL2 Karir (Career): Sukses dalam karier teknik/rekayasa atau karier profesional yang bercirikan integritas dalam aspek kompetensi di bidang teknik elektro dengan kapabilitas penelitian yang kuat, profesionalisme, komunikasi yang efektif dan nilai-nilai kemanusiaan yang universal. (Be successful in a technical or professional career characterized by having integrity in the aspect of electrical engineering competency with strong research capabilities or related field by fulfilling professionalism, effective communication, and universal value of humanity).
+
+Visi dan misi Fakultas Teknik UGM menekankan pentingnya pendidikan teknik yang berkontribusi pada kemandirian bangsa, nilai-nilai kemanusiaan, dan budaya bangsa berdasarkan Pancasila. Nilai-nilai ini sejalan dengan SKL Program Magister Teknik Elektro, yaitu SKL1 (Karakter) yang mencakup kepemimpinan, etika tinggi, dan semangat pembelajaran sepanjang hayat, serta SKL2 (Karir) yang menekankan keberhasilan karier profesional dengan kompetensi teknik, kemampuan riset, profesionalisme, komunikasi efektif, dan nilai-nilai kemanusiaan. Relasi PEO dengan visi dan misi Fakultas Teknik UGM dijelaskan lebih lanjut pada @tbl-peo-visi-misi.
+
+
+| No | PEO | Visi Fakultas Teknik UGM | Misi Fakultas Teknik UGM |
+|:--:|:---|:---|:---|
+| 1. | **Akademisi dan/atau Peneliti** | Sejalan dengan visi untuk penguatan peradaban baru dan kemandirian bangsa melalui kontribusi keilmuan dan riset yang berorientasi pada kemanusiaan. | a. Mencetak SDM beretika dan mumpuni dalam ilmu teknik.<br>b. Mengembangkan IPTEK yang bermanfaat.<br>c. Melakukan pengabdian yang berbasis budaya bangsa. |
+| | &nbsp;&nbsp;● Peneliti | Mendorong kontribusi dalam IPTEK global dan pelambatan entropi dunia lewat inovasi riset. | a. Menyebarluaskan ilmu teknik berbasis riset.<br>b. Mengembangkan kreativitas dan pengabdian. |
+| | &nbsp;&nbsp;● Akademisi | Menopang penguatan peradaban lewat pendidikan tinggi teknik yang bernilai budaya dan berbasis Pancasila. | a. Pendidikan teknik untuk SDM unggul.<br>b. Tata kelola organisasi yang agile dan berintegritas. |
+| 2. | **Profesional** | Berkontribusi terhadap kemandirian dan kedaulatan bangsa melalui solusi teknik yang aplikatif dan terintegrasi dengan sektor industri dan pemerintahan. | a. Menghasilkan lulusan profesional di bidang teknik<br>b. Melaksanakan pengabdian sesuai kebutuhan bangsa.<br>c. Membangun kerja sama luas, termasuk industri. |
+| | &nbsp;&nbsp;● Profesional Industri | Mendukung pembangunan nasional berbasis keilmuan teknik dan nilai kemanusiaan. | a. Pendidikan teknik untuk pengabdian masyarakat.<br>b. Pengabdian berbasis budaya bangsa. |
+| | &nbsp;&nbsp;● Profesional Pemerintahan | Mendorong tata kelola teknik dan manajemen publik yang inovatif untuk kepentingan bangsa. | a. Kolaborasi dengan lembaga dalam dan luar negeri.<br>b. Tata kelola organisasi yang agile dan taat asas. |
+
+: Kaitan PEO dengan Visi dan Misi Fakultas Teknik UGM {#tbl-peo-visi-misi tbl-colwidths="[5,20,35,40]"}
+
+Profil lulusan PMPSTE dirumuskan berdasarkan visi-misi tersebut, serta mengacu pada jenjang KKNI, SNPT, dan masukan dari alumni, pengguna, serta advisory board. Lulusan dipersiapkan untuk menjadi akademisi, peneliti, atau profesional yang kompeten, etis, dan inovatif, serta mampu berkontribusi secara nyata di berbagai sektor teknik dan kemasyarakatan, baik di tingkat nasional maupun global. Detail perbandingan SKL dan profil lulusan PMPSTE ditunjukkan pada @tbl-skl-profil-lulusan.
+
+
+
+| Standar Kompetensi Lulusan (SKL) | Profil Lulusan | Kesesuaian/Relevansi |
+|:---|:---|:---|
+| **SKL 1 – Karakter** | Akademisi dan peneliti yang etis: mampu mengembangkan pengetahuan melalui riset, menjunjung tinggi etika akademik dan integritas. | Penekanan pada karakter, etika, dan pembelajaran berkelanjutan. |
+| | Profesional inovatif: memiliki tanggung jawab sosial dan profesional dalam praktik teknik. | Relevan dengan nilai kemanusiaan dan budaya bangsa berbasis Pancasila. |
+| **SKL 2 – Karir** | Peneliti unggul: menghasilkan penelitian yang berdampak, baik nasional maupun global. | Selaras dengan SKL 2 yang mendukung karier profesional dalam riset dan inovasi. |
+| | Praktisi profesional: mampu memecahkan permasalahan teknik kompleks secara mandiri dan kolaboratif. | Berkaitan dengan profesionalisme, kompetensi teknis, dan komunikasi. |
+| | Akademisi yang mampu mendidik: menyampaikan ilmu pengetahuan secara efektif dan inspiratif. | Mendukung pengembangan karier sebagai dosen/pendidik sesuai jenjang KKNI. |
+
+: Hubungan Standar Kompetensi Lulusan (SKL) dan Profil Lulusan {#tbl-skl-profil-lulusan tbl-colwidths="[20,45,35]"}
+
+
+PMPSTE pada dasarnya melanjutkan apa yang telah direncanakan pada program sarjana di Departemen Teknik Elektro dan Teknologi Informasi (DTETI), FT UGM. Hal ini mempertimbangkan kesinambungan antar jenjang kependidikan antara program sarjana dan magister yang ada di departemen. Perbedaan antara SKL PMPSTE dengan sarjana terletak pada kemampuan lulusan untuk melakukan penelitian dengan metodologi yang tepat serta mampu mencari solusi permasalahan secara lebih komprehensif.
+Komite Kurikulum dan Pengurus DTETI FT UGM menilai bahwa kemampuan untuk memimpin (leadership), memiliki standar etika dan integritas yang tinggi, serta kemauan untuk belajar sepanjang hayat (lifelong learning) menjadi modal utama yang berharga untuk membentuk alumni yang mampu beradaptasi dengan kompleksitas dunia kerja dan perkembangan teknologi yang sangat pesat di bidang teknik elektro. Hal-hal tersebut terangkum dalam SKL yang pertama, yakni Karakter (Character). Selain hal-hal tersebut, lulusan DTETI FT UGM juga perlu menguasai ilmu-ilmu dasar dengan baik dan memiliki kompetensi yang sesuai dengan bidang ilmu yang ditekuni. Hal-hal tersebut terangkum dalam SKL yang kedua, yakni Karier (Career). Untuk mendukung terciptanya profil lulusan yang memiliki karakter dan karier yang kuat, Komite Kurikulum dan Pengurus DTETI FT UGM menyusun nilai-nilai (values) yang menjadi acuan dosen, mahasiswa, dan tenaga kependidikan dalam melaksanakan kegiatan belajar-mengajar, bekerja sama, dan berinteraksi di DTETI FT UGM. Nilai-nilai tersebut dirumuskan dalam jargon “ETHOS for Integrity”, dengan penjelasan sebagai berikut:
+
+-   *Excellence*: sivitas akademika DTETI FT UGM tidak hanya memastikan bahwa tugas dan amanah selesai dilaksanakan, tapi juga berusaha menyempurnakan, serta menjadi yangterbaik dan berdedikasi tinggi di bidang yang mereka tekuni.
+
+-   *Teamwork*: sivitas akademika DTETI menyadari bahwa mampu bekerja dalam tim adalah ruh dari sebuah organisasi yang tidak hanya mampu melaksanakan fungsinya, tapi mampu membawa perubahan dan menginspirasi lingkungan sekitarnya.
+
+-   *Harmony*: sivitas akademika DTETI menyadari bahwa kesuksesan dapat dicapai dengan tetap memperhatikan harmoni dan keseimbangan, keseimbangan antara pekerjaan dan keluarga, keseimbangan antara hak dan kewajiban, keseimbangan antara kesehatan jiwa dan kesehatan raga.
+
+-   *Optimistic*: sivitas akademika DTETI selalu melihat seluruh tantangan dengan penuh optimis, sebab mereka meyakini bahwa tidak ada kata gagal, yang ada adalah belajar dan sukses.
+
+-   *Smart*: sivitas akademika DTETI menjadi sumber inspirasi dengan berbagai inovasi, berusaha berkontribusi untuk menyelesaikan permasalahan masyarakat dan bangsa, menjadi bagian dari solusi, bukan bagian dari masalah.
+
+-   *Integrity*: sivitas akademika DTETI memiliki keyakinan yang kuat akan nilai-nilai moral yang menjadi acuan bekerja di ranah profesional serta bekerja sama dalam bingkai berbangsa dan bernegara.
+
+Dua SKL di atas, Karier (Carrier) dan Karakter (Character), pada praktiknya diturunkan menjadi enam buah capaian pembelajaran lulusan (CPL) agar lebih mudah untuk didefinisikan dan dioperasionalkan. CPL akan dijelaskan lebih detail pada bagian selanjutnya.
+
+### Capaian Pembelajaran Lulusan (CPL) {#sec-cpl}
+
+Fakultas Teknik, sebagai struktur vertikal di atas Program Magister Program Studi Teknik Elektro (PMPSTE) menetapkan tiga CPL yaitu,
+
+1.	menguasai pengetahuan dan wawasan yang luas dalam rangka pengembangan ilmu pengetahuan dan teknologi melalui riset atau penciptaan karya inovatif bidang keteknikan,
+
+2.	menerapkan dan mengembangkan pengetahuan dan wawasan untuk pemecahan masalah dalam lingkungan baru pada konteks multidisiplin yang luas,
+
+3.	mengkomunikasikan secara efektif pengetahuan, wawasan dan karya keteknikan pada komunitas akademik dan umum.
+
+Amanat dari FT dipertegas dengan detail oleh PMPSTE dengan menetapkan kata-kata kunci penciri lulusan sebagai berikut:
+
+1.	solusi keteknikan (engineering solution),
+
+2.	data, eksperimen, dan pemodelan (data, experiments and modeling),
+
+3.	komunikasi yang efektif (effective communication),
+
+4.	kerja sama tim, kepemimpinan, dan kemampuan mengelola tim (teamwork, leadership and managerial),
+
+5.	etika profesional (professional ethics),
+
+6.	pembelajaran berkelanjutan (sustainable learning).
+
+Sehingga disusunlah CPL PMPSTE dengan rincian sebagaimana ditunjukkan pada @tbl-cpl.
+
+| Kode | Topik | Deskripsi |
+|:--:|:---|:---|
+| **CPL 1** | Solusi Keteknikan (*Engineering Solution*) | 1. Menguasai pengetahuan dan wawasan yang luas dan terkini dalam rangka pengembangan ilmu pengetahuan dan teknologi melalui riset atau penciptaan karya inovatif bidang keteknikan berbasis ilmu teknik elektro. (CPLFT1)<br><br>2. Menerapkan dan mengembangkan pengetahuan dan wawasan untuk pemecahan masalah kompleks dalam lingkungan baru pada konteks multidisiplin yang luas. (CPLFT2) |
+| **CPL 2** | Data, Eksperimen, dan Pemodelan (*Data, Experiments and Modeling*) | Kemampuan untuk membangun model untuk merancang dan melakukan eksperimen untuk mengeksplorasi masalah rekayasa yang kompleks serta menganalisis dan menginterpretasikan data. |
+| **CPL 3** | Komunikasi yang Efektif (*Effective Communication*) | Mengkomunikasikan secara efektif pengetahuan, wawasan, dan karya keteknikan pada komunitas akademik dan umum. (CPLFT3) |
+| **CPL 4** | Kerja sama Tim, Kepemimpinan, dan Mengelola Tim (*Teamwork, leadership and Managerial*) | Profesional dan tanggung jawab yang lebih besar, dan/atau dengan transisi ke posisi kepemimpinan dalam bisnis, pemerintahan, mengelola tim. Kemampuan untuk memiliki peran secara efektif dalam memimpin dan mengelola kerja di dalam tim untuk mencapai tujuan bersama. |
+| **CPL 5** | Etika Profesional (*Professional Ethics*) | Kemampuan untuk memahami nilai-nilai etika dan berkomitmen pada norma, tanggung jawab dan etika profesi. |
+| **CPL 6** | Pembelajaran Berkelanjutan (*Sustainable Learning*) | Kemampuan untuk memahami pentingnya pembelajaran seumur hidup dan mampu melaksanakannya. |
+
+: Capaian Pembelajaran Lulusan {#tbl-cpl tbl-colwidths="[10,30,60]"}
+
+
+Penentuan mata kuliah dalam kurikulum PMPSTE dilakukan dengan mempertimbangkan pencapaian CPL. Setiap mata kuliah dirancang untuk mendukung penguasaan pengetahuan dan keterampilan yang relevan, mulai dari kemampuan menyelesaikan masalah teknik kompleks (CPL 1), merancang eksperimen dan menganalisis data (CPL 2), hingga mengomunikasikan hasil secara efektif (CPL 3). Selain itu, aspek kepemimpinan dan kerja tim (CPL 4), etika profesional (CPL 5), serta pembelajaran sepanjang hayat (CPL 6) juga diintegrasikan melalui pembelajaran berbasis proyek, riset mandiri, dan kolaborasi multidisiplin. Dengan demikian, kurikulum dirancang secara holistik untuk menghasilkan lulusan yang kompeten, adaptif, dan profesional. Kaitan antara mata kuliah dan CPL secara detail dijelaskan pada Tabel 2.17 dan Tabel 2.17.
+Sesuai peraturan No. 073 Tahun 2013 yang diterbitkan oleh Menteri Pendidikan dan Kebudayaan, CPL harus mengacu pada jenjang kualifikasi KKNI dan SNPT. CPL terdiri dari unsur sikap, keterampilan umum, keterampilan khusus, dan pengetahuan. Unsur sikap dan keterampilan umum mengacu pada SPT sebagai standar minimal, yang memungkinkan ditambah oleh program studi untuk memberi ciri lulusan perguruan tingginya. Sedangkan unsur keterampilan khusus dan pengetahuan dirumuskan dengan mengacu pada deskriptor KKNI sesuai dengan jenjang pendidikannya. Hubungan CPL dengan standar SNPT dapat dilihat pada @tbl-cpl-sn-dikti berikut.
+
+
+| CPL | Sikap | Pengetahuan | Keterampilan Umum | Keterampilan Khusus |
+|:---|:--:|:--:|:--:|:--:|
+| Solusi Keteknikan (*Engineering Solution*) | | X | | |
+| Data, Eksperimen, dan Pemodelan (*Data, Experiments and Modeling*) | | | | X |
+| Komunikasi yang Efektif (*Effective Communication*) | | | X | |
+| Kerja sama Tim, Kepemimpinan, dan Mengelola Tim (*Teamwork, Leadership and Managerial*) | | | X | |
+| Etika Profesional (*Professional Ethics*) | X | | | |
+| Pembelajaran berkelanjutan (*Sustainable Learning*) | X | | | |
+
+: Hubungan CPL dengan Standar CPL SN Dikti {#tbl-cpl-sn-dikti tbl-colwidths="[40,15,15,15,15]"}
+
+Menurut Peraturan Presiden Republik Indonesia No. 8 Tahun 2012 tentang Kerangka Kualifikasi Nasional Indonesia (KKNI) Pasal 5(g),  lulusan Magister Terapan dan Magister paling rendah setara dengan jenjang kedelapan. Oleh karena itu, CPL yang akan dicapai oleh program studi harus merepresentasikan deskripsi jenjang kualifikasi KKNI ke-8. Adapun matriks yang menunjukkan relasi antara CPL dan jenjang KKNI ke-8 ditunjukkan oleh @tbl-cpl-kkni.
+
+| CPL | Mampu mengembangkan pengetahuan, teknologi, dan atau seni di dalam bidang keilmuannya atau praktik profesionalnya melalui riset, hingga menghasilkan karya inovatif dan teruji. | Mampu memecahkan permasalahan sains, teknologi, dan atau seni di dalam bidang keilmuannya melalui pendekatan inter atau multidisipliner. | Mampu mengelola riset dan pengembangan yang bermanfaat bagi masyarakat dan keilmuan, serta mampu mendapat pengakuan nasional atau internasional. |
+|:---|:--:|:--:|:--:|
+| Solusi Keteknikan (*Engineering Solution*) | | X | |
+| Data, Eksperimen, dan Pemodelan (*Data, Experiments and Modeling*) | X | | |
+| Komunikasi yang Efektif (*Effective Communication*) | | | X |
+| Kerja sama Tim, Kepemimpinan, dan Mengelola Tim (*Teamwork, Leadership and Managerial*) | | | X |
+| Etika Profesional (*Professional Ethics*) | X | | |
+| Pembelajaran berkelanjutan (*Sustainable Learning*) | X | | |
+
+: Matriks Relasi CPL dan Jenjang KKNI ke-8 {#tbl-cpl-kkni tbl-colwidths="[25,25,25,25]"}
+
+
+Adapun kesetaraan CPL PMPSTE dengan CPL yang sesuai standar penjaminan mutu program studi, dalam hal ini Washington Accord disajikan di @tbl-cpl-wa.
+
+
+| CPL | Fundamental and Engineering Knowledge | Development of Engineering Solution | Engineering Design | Data and Experiments | Modern Tools Utilization | Knowledge Contemporary and Issues |
+|:---|:--:|:--:|:--:|:--:|:--:|:--:|
+| Solusi Keteknikan (*Engineering Solution*) | X | X | X | | X | |
+| Data, Eksperimen, dan Pemodelan (*Data, Experiments and Modeling*) | | | | X | | |
+| Komunikasi yang Efektif (*Effective Communication*) | | | | | | |
+| Kerja sama Tim, Kepemimpinan, dan Mengelola Tim (*Teamwork, Leadership and Managerial*) | | | | | | |
+| Etika Profesional (*Professional Ethics*) | | | | | | |
+| Pembelajaran berkelanjutan (*Sustainable Learning*) | | | | | | X |
+
+: Kesetaraan CPL PMPSTE Sesuai Washington Accord {#tbl-cpl-wa tbl-colwidths="[22,13,13,13,13,13,13]"}
+
+
+Institute of Electrical and Electronic Engineering (IEEE) sebagai organisasi profesional bidang teknik elektro internasional terbesar di dunia tidak secara langsung menetapkan student outcomes khusus untuk program Magister Teknik Elektro, namun standar yang digunakan umumnya merujuk pada kriteria ABET (Accreditation Board for Engineering and Technology). Dalam konteks ini, student outcomes mencakup kemampuan menyelesaikan masalah teknik kompleks, merancang solusi yang beretika dan berkelanjutan, berkomunikasi secara efektif, memiliki kesadaran etis dan profesional, bekerja dalam tim, melakukan eksperimen serta analisis data, dan mampu belajar secara mandiri untuk beradaptasi dengan kebutuhan profesional. Matriks penyelarasan antara CPL dengan ABET ditunjukkan pada @tbl-cpl-abet.
+
+| CPL | Deskripsi CPL | Selaras dengan ABET (MS-Level Outcomes) | Kesesuaian |
+|:--:|:---|:---|:---|
+| **CPL 1** | Mampu mengembangkan pengetahuan, teknologi, dan/atau seni di dalam bidang keilmuannya atau praktik profesionalnya melalui riset, hingga menghasilkan karya inovatif dan teruji. | ● An ability to apply advanced knowledge in a specialized area of engineering.<br>● An ability to conduct research or apply advanced techniques to solve complex engineering problems. | CPL ini menekankan riset dan inovasi, selaras dengan kemampuan riset lanjutan dan penguasaan bidang spesifik di ABET. |
+| **CPL 2** | Mampu memecahkan permasalahan sains, teknologi, dan/atau seni di dalam bidang keilmuannya melalui pendekatan inter atau multidisipliner. | ● An ability to synthesize knowledge and apply it to solve interdisciplinary engineering problems.<br>● An ability to function on multidisciplinary teams. | CPL ini fokus pada kemampuan lintas disiplin dan problem-solving, cocok dengan ABET yang menekankan sinergi keilmuan. |
+| **CPL 3** | Mampu mengelola riset dan pengembangan yang bermanfaat bagi masyarakat dan keilmuan, serta mampu mendapat pengakuan nasional atau internasional. | ● An understanding of professional and ethical responsibility.<br>● A recognition of the need for, and an ability to engage in life-long learning.<br>● An ability to communicate effectively. | ABET tidak eksplisit menyebut “pengakuan nasional/internasional”, tapi CPL ini selaras dengan aspek kepemimpinan riset, dampak sosial, dan komunikasi dalam riset. |
+
+: Matriks Penyelarasan CPL dengan ABET Outcomes untuk Program Magister {#tbl-cpl-abet tbl-colwidths="[10,32,35,23]"}
+
+Untuk jenjang magister, program studi juga diharapkan merumuskan outcomes tambahan yang mencerminkan penguasaan bidang secara mendalam dan kemampuan praktik profesional sesuai dengan nama programnya. Kerangka ini sejalan dengan tujuan IEEE dan ABET untuk memastikan lulusan memiliki kompetensi tinggi, profesionalisme, serta kesiapan untuk berkontribusi secara signifikan di dunia teknik dan teknologi, sesuai ABET Criteria for Accrediting Engineering Programs 2025–2026.

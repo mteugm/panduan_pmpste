@@ -1,0 +1,285 @@
+## Penetapan Mata Kuliah
+
+Kurikulum PMPSTE dijabarkan dalam bentuk mata kuliah dengan bobot keseluruhan 36 (tiga puluh enam) SKS. Pembagian bobot SKS mata kuliah PMPSTE dapat dilihat pada @tbl-course-based Sedangkan untuk struktur mata kuliah untuk tiap semesternya dapat dilihat pada @tbl-struktur-mk. Mata kuliah wajib berarti semua mahasiswa harus mengambil dan lulus mata kuliah tersebut. Sementara itu, mata kuliah pilihan adalah mata kuliah yang boleh dipilih oleh mahasiswa sesuai dengan bidangnya masing-masing.
+
+| Mata Kuliah PMPSTE |  SKS   |
+|:-------------------|:------:|
+| MK Wajib           |   20   |
+| MK Pilihan         |   9    |
+| Seminar            |   1    |
+| Tesis              |   6    |
+| **Total**          | **36** |
+
+: Pembagian Bobot SKS Mata Kuliah PMPSTE Berbasis Perkuliahan {#tbl-course-based tbl-colwidths="\[75,25\]" .w-auto .mx-auto}
+
+| NO  | KODE MK   | NAMA MK                                  |  SKS   |  SIFAT  |
+|:---:|:----------|:-----------------------------------------|:------:|:-------:|
+|     |           | **SEMESTER 1**                           |        |         |
+|  1  | TEE256102 | Matematika Lanjut                        |   3    |  Wajib  |
+|  2  | TEE256101 | Statistika Lanjut                        |   2    |  Wajib  |
+|  3  | TEE256104 | Kolaborasi dan Jejaring                  |   2    |  Wajib  |
+|  4  | TEE256105 | Metodologi Penelitian dan Proposal Tesis |   2    |  Wajib  |
+|  5  | TEE256201 | Komputasi Numeris                        |   3    |  Wajib  |
+|     |           | **JUMLAH SKS**                           | **12** |         |
+|     |           | **SEMESTER 2**                           |        |         |
+|  1  | TEE256103 | Pemodelan                                |   3    |  Wajib  |
+|  2  | TEE256202 | Optimisasi Lanjut                        |   3    |  Wajib  |
+|  3  | TEE257101 | Etika dan Teknik Penulisan Ilmiah        |   2    |  Wajib  |
+|  4  | TEE257xxx | MK Pilihan                               |   3    | Pilihan |
+|  5  | TEE257xxx | MK Pilihan                               |   3    | Pilihan |
+|     |           | **JUMLAH SKS**                           | **14** |         |
+|     |           | **SEMESTER 3**                           |        |         |
+|  1  | TEE257201 | Seminar                                  |   1    |  Wajib  |
+|  2  | TEE257xxx | MK Pilihan                               |   3    |  Wajib  |
+|     |           | **JUMLAH SKS**                           | **4**  |         |
+|     |           | **SEMESTER 4**                           |        |         |
+|  1  | TEE257202 | Tesis                                    |   6    |  Wajib  |
+|     |           | **JUMLAH SKS**                           | **6**  |         |
+|     |           | **TOTAL SKS**                            | **36** |         |
+
+: Struktur Mata Kuliah PMPSTE Berbasis Perkuliahan untuk Setiap Semester {#tbl-struktur-mk tbl-colwidths="\[5,20,45,15,15\]"}
+
+Sebagaimana telah disinggung di bagian Penetapan Bahan Kajian, terdapat dua bidang keilmuan yang bisa dipilih mahasiswa PMPSTE dalam kurikulum berbasis perkuliahan, yaitu:
+
+1.  Konsentrasi Sistem Tenaga Listrik (STL), terdapat tiga subkonsentrasi.
+
+    a.  Sistem Daya
+
+    b.  Tegangan Tinggi
+
+    c.  Elektronika Daya
+
+2.  Konsentrasi Sistem Isyarat dan Elektronika (SIE), terdapat empat subkonsentrasi.
+
+    a.  Pengolahan Isyarat dan Biomedis
+
+    b.  Elektronika
+
+    c.  Telekomunikasi
+
+    d.  Instrumentasi dan Kendali
+
+Kedua pilihan konsentrasi ini tercermin di dalam dua kelompok mata kuliah pilihan yang bisa dipilih oleh mahasiswa PMPSTE dalam kurikulum berbasis perkuliahan. Setiap mahasiswa wajib mengambil total empat mata kuliah pilihan dengan rincian sebagai berikut.
+
+1.  Minimal 3 mata kuliah pilihan sesuai konsentrasi yang dipilih, baik STL maupun SIE, sangat disarankan mengambil mata kuliah pilihan yang satu subkonsentrasi.
+
+2.  Maksimal 1 mata kuliah pilihan di luar konsentrasinya.
+
+Pilihan bagi mahasiswa untuk mengambil maksimal satu mata kuliah pilihan di luar konsentrasi utama ini diharapkan mampu menambah wawasan mahasiswa, terutama jika topik penelitiannya beririsan dengan topik di konsentrasi lainnya. Daftar mata kuliah pilihan yang ditawarkan oleh PMPSTE ditunjukkan oleh @tbl-mk-pilihan
+
+Konsentrasi STL dan SIE mempunyai dimensi yang luas. STL meliputi sub-subkonsentrasi Sistem Daya, Tegangan Tinggi, dan Elektronika Daya. Sementara itu, konsentrasi SIE juga mempunyai dimensi yang sangat luas. Dimensi tersebut meliputi Pengolahan Isyarat, Elektronika, Telekomunikasi, serta Instrumentasi dan Kendali. Dengan demikian, mata kuliah pilihan untuk Kurikulum 2022 Versi Revisi-2 menjadi lebih banyak
+
+| NO | KODE MK | NAMA MATA KULIAH | SKS |
+|:----------------:|:-----------------|:-----------------|:----------------:|
+| 1 |  | Post-Graduate Symposium (hanya dilaksanakan pada masa transisi) | 1 |
+|  |  | **KONSENTRASI SISTEM TENAGA LISTRIK** |  |
+| 1 | TEE257111 | Konversi dan Storage Energi Elektrik | 3 |
+| 2 | TEE257112 | Analisis Sistem Tenaga Listrik | 3 |
+| 3 | TEE257113 | Manajemen Energi Elektrik | 3 |
+| 4 | TEE257114 | Dinamika dan Stabilitas Sistem Tenaga Listrik | 3 |
+| 5 | TEE257115 | Perancangan, Operasi, dan Pengendalian Sistem Tenaga Listrik dan Microgrid | 3 |
+| 6 | TEE257116 | Proteksi Sistem Tenaga Listrik dan Sistem Distribusi | 3 |
+| 7 | TEE257117 | Operasi Sistem Tenaga Listrik | 3 |
+| 8 | TEE257120 | Teknik Tegangan Tinggi Lanjut | 3 |
+| 9 | TEE257121 | Pengujian dan Diagnosis Tegangan Tinggi | 3 |
+| 10 | TEE257122 | Pentanahan dan Perlindungan Transmisi terhadap Petir | 3 |
+| 11 | TEE257131 | Elektronika Daya pada Transmisi Distribusi | 3 |
+| 12 | TEE257132 | Catu Daya Tersaklar | 3 |
+| 13 | TEE257133 | Inverter Pengendali Motor | 3 |
+| 14 | TEE257134 | Elektronika Daya Lanjut | 3 |
+|  |  | **KONSENTRASI ISYARAT DAN ELEKTRONIKA** |  |
+| 1 | TEE257210 | Teknik Pengolahan Isyarat Digital Lanjut | 3 |
+| 2 | TEE257211 | Pengolahan Citra Lanjut dan Visi Komputer | 3 |
+| 3 | TEE257212 | Teknik Klasifikasi dan Pengenalan Pola | 3 |
+| 4 | TEE257213 | Analisis Isyarat Biomedis | 3 |
+| 5 | TEE257214 | Sistem Pembelajaran Dalam (*Deep Learning System*) | 3 |
+| 6 | TEE257215 | Jaringan Syaraf Tiruan dan Sistem Fuzzy | 3 |
+| 7 | TEE257216 | Pengolahan Isyarat Statistis | 3 |
+| 8 | TEE257217 | Pembelajaran Mesin dan Kecerdasan Buatan | 3 |
+| 9 | TEE257218 | Teknik Visualisasi | 3 |
+| 10 | TEE257219 | Instrumentasi Biomedis Lanjut | 3 |
+| 11 | TEE257230 | Sistem Berbasis Mikrokontroler Lanjut | 3 |
+| 12 | TEE257231 | Perancangan Sistem Elektronika | 3 |
+| 13 | TEE257232 | Elektronika Instrumentasi | 3 |
+| 14 | TEE257233 | Analog IC Design | 3 |
+| 15 | TEE257234 | Digital IC Design | 3 |
+| 16 | TEE257235 | RF IC Design | 3 |
+| 17 | TEE257236 | FPGA Design | 3 |
+| 18 | TEE257240 | Komunikasi Data Lanjut | 3 |
+| 19 | TEE257241 | Komunikasi Digital | 3 |
+| 20 | TEE257242 | Pengolahan Isyarat Radar | 3 |
+| 21 | TEE257243 | Sistem Komunikasi Nirkabel | 3 |
+| 22 | TEE257244 | Teori Informasi dan Penyandian | 3 |
+| 23 | TEE257245 | Wireless Sensor Networks | 3 |
+| 24 | TEE257250 | Robotika Modern | 3 |
+| 25 | TEE257251 | Sistem Kendali Cerdas | 3 |
+| 26 | TEE257252 | Sistem Kendali Nonlinear | 3 |
+| 27 | TEE257253 | Robot Otonom | 3 |
+| 28 | TEE257254 | Sistem Cerdas untuk Battery Management System | 3 |
+| 29 | TEE257255 | Teknik Kendali Lanjut | 3 |
+
+: Daftar Mata Kuliah Pilihan PMPSTE (Kurikulum 2022 Versi Revisi-2) {#tbl-mk-pilihan tbl-colwidths="\[5,15,70,10\]"}
+
+Untuk seluruh konsentrasi, komposisi SKS per semester adalah sama, yaitu seperti ditunjukkan @tbl-komposisi-sks.
+
+| SEMESTER      | JUMLAH SKS |
+|:--------------|:----------:|
+| 1             |     12     |
+| 2             |     14     |
+| 3             |     4      |
+| 4             |     6      |
+| **TOTAL SKS** |   **36**   |
+
+: Komposisi SKS untuk Setiap Semester {#tbl-komposisi-sks tbl-colwidths="\[50,50\]" .w-auto .mx-auto}
+
+### Kurikulum berbasis riset (By Research)
+
+Kurikulum PMPSTE Berbasis Penelitian dijabarkan dalam bentuk mata kuliah perkuliahan 6 SKS dan penelitian 30 SKS, sehingga bobot keseluruhan adalah 36 SKS. Pembagian Bobot SKS dapat dilihat pada struktur kurikulum PMPSTE Berbasis Penelitian pada @tbl-bobot-sks-penelitian. Sedangkan struktur mata kuliah dan kegiatan penelitian untuk setiap semesternya dapat dilihat pada @tbl-struktur-mk-penelitian.
+
+| Komponen                     |  SKS   |
+|:-----------------------------|:------:|
+| **PERKULIAHAN**              |        |
+| Mata Kuliah Wajib            |   6    |
+| **JUMLAH SKS**               | **6**  |
+| **PENELITIAN**               |        |
+| Ujian Proposal Tesis         |   2    |
+| Penelitian dan Seminar Hasil |   12   |
+| Publikasi                    |   10   |
+| Tesis                        |   6    |
+| **JUMLAH SKS**               | **30** |
+| **TOTAL SKS**                | **36** |
+
+: Pembagian Bobot SKS Mata Kuliah PMPSTE Berbasis Penelitian {#tbl-bobot-sks-penelitian tbl-colwidths="\[75,25\]" .w-auto .mx-auto}
+
+| NO  | KODE MK   | NAMA MK                                  |  SKS   |   SIFAT    |
+|:-------------:|:--------------|:--------------|:-------------:|:-------------:|
+|     |           | **SEMESTER 1**                           |        |            |
+|  1  | TEE257101 | Etika dan Teknik Penulisan Ilmiah        |   2    |   Wajib    |
+|  2  | TEE256104 | Kolaborasi dan Jejaring                  |   2    |   Wajib    |
+|  3  | TEE256105 | Metodologi Penelitian dan Proposal Tesis |   2    |   Wajib    |
+|  4  |           | Ujian Proposal Thesis                    |   2    | Penelitian |
+|     |           | **JUMLAH SKS**                           | **8**  |            |
+|     |           | **SEMESTER 2**                           |        |            |
+|  1  | TEE226502 | Penelitian dan Seminar Hasil 1           |   6    | Penelitian |
+|  2  | TEE226504 | Publikasi 1                              |   5    | Penelitian |
+|     |           | **JUMLAH SKS**                           | **11** |            |
+|     |           | **SEMESTER 3**                           |        |            |
+|  1  | TEE227501 | Penelitian dan Seminar Hasil 2           |   6    | Penelitian |
+|  2  | TEE227503 | Publikasi 2                              |   5    | Penelitian |
+|     |           | **JUMLAH SKS**                           | **11** |            |
+|     |           | **SEMESTER 4**                           |        |            |
+|  1  | TEE227504 | Tesis                                    |   6    | Penelitian |
+|     |           | **JUMLAH SKS**                           | **6**  |            |
+|     |           | **TOTAL SKS**                            | **36** |            |
+
+: Struktur Mata Kuliah dan Kegiatan Penelitian untuk Setiap Semester {#tbl-struktur-mk-penelitian tbl-colwidths="\[5,15,50,15,15\]" .w-auto .mx-auto}
+
+Perkuliahan untuk mata kuliah wajib PMPSTE dilakukan pada semester 1 sebesar 6 SKS, perkuliahan untuk mata kuliah penelitian dilakukan pada semester 1, 2, 3, dan 4. Pada kurikulum ini mata kuliah wajib (6 SKS) terdiri dari Etika dan Teknik Penulisan Ilmiah (2 SKS); Kolaborasi dan Jejaring (2 SKS); dan Metodologi Penelitian dan Proposal Tesis (2 SKS).
+
+Di samping mata kuliah wajib, penelitian tesis adalah kegiatan penelitian yang dilakukan mahasiswa selama menempuh studi sebesar 30 SKS. Penelitian tesis meliputi kegiatan-kegiatan yang dijabarkan dari semester 1 sampai dengan semester 4 dengan keterangan sebagai berikut:
+
+1.  [Ujian Proposal Tesis (2 SKS)]{.underline} dilakukan pada semester 1. Berikut adalah rincian pelaksanaannya:
+
+    a.  Mahasiswa harus menyusun sebuah proposal penelitian tesis sebagai syarat untuk mendapatkan topik penelitian. Proposal penelitian ini akan diujikan di dalam sidang ujian proposal tesis.
+
+    b.  Selama menyusun dokumen proposal penelitian tesis, mahasiswa harus menghubungi dosen yang sesuai dengan bidang yang diminati. Dokumen proposal penelitian harus diserahkan ke bagian akademik pada akhir semester sebagai syarat melaksanakan ujian.
+
+    c.  Ujian Proposal Tesis dilakukan secara lisan di hadapan dewan penguji.
+
+    d.  Dewan penguji terdiri atas dosen-dosen PMPSTE yang sesuai di bidangnya.
+
+    e.  Dewan Penguji memberi nilai pada sidang ujian proposal penelitian. Jika nilai kurang dari B, maka mahasiswa wajib mengulang.
+
+    f.  Jika mahasiswa lulus Ujian Proposal Tesis, maka dosen pembimbing ditetapkan, dan mahasiswa tersebut dapat memulai penelitian.
+
+2.  [Penelitian dan Seminar Hasil 1 (6 SKS)]{.underline} dilaksanakan pada semester 2. Ini merupakan kegiatan penelitian, termasuk melakukan publikasi dan menyusun dokumen hasil penelitian tesis. Kegiatan ini dinamakan Penelitian dan Seminar Hasil 1 karena merupakan kegiatan penelitian fase awal dan lingkupnya masih luas. Pelaksanaan penelitian dinilai oleh dosen pembimbing. Pada akhir semester, diselenggarakan Seminar Hasil 1, dengan rincian sebagai berikut.
+
+    a.  Mahasiswa harus menyusun sebuah dokumen hasil penelitian tesis yang pertama dengan arahan dosen pembimbing, sebagai syarat untuk pelaksanaan Seminar Hasil 1.
+
+    b.  Dokumen hasil penelitian harus diserahkan ke bagian akademik pada akhir semester sebagai syarat melaksanakan Seminar Hasil 1.
+
+    c.  Seminar Hasil 1 dilakukan secara lisan di hadapan dewan penguji.
+
+    d.  Dewan penguji terdiri atas dosen pembimbing dan dosen-dosen Program Magister Program Studi Teknik Elektro yang sesuai di bidangnya.
+
+3.  [Penelitian dan Seminar Hasil 2 (6 SKS)]{.underline} dilaksanakan pada semester 3. Ini merupakan kegiatan penelitian, termasuk melakukan publikasi dan menyusun dokumen Hasil Penelitian Tesis. Kegiatan ini dinamakan Penelitian dan Seminar Hasil 2 karena merupakan kegiatan penelitian fase akhir dan lingkupnya lebih spesifik dan lebih mendalam. Pelaksanaan penelitian dinilai oleh dosen pembimbing.  Pada akhir semester diselenggarakan Seminar Hasil 2, yang rinciannya sama dengan Penelitian dan Seminar Hasil 1. Kegiatan ini merupakan kelanjutan dari kegiatan penelitian pada semester sebelumnya.
+
+4.  [Publikasi 1 (5 SKS) dan Publikasi 2 (5 SKS)]{.underline} dilaksanakan pada semester 2 dan 3. Keterangannya adalah sebagai berikut:
+
+    a.  Mahasiswa diwajibkan melakukan publikasi selama melakukan penelitian tesis sesuai dengan Peraturan Rektor No. 18 tahun 2019 dan No. 23 tahun 2024, telah menghasilkan paling sedikit 1 (satu) publikasi yang diterima dalam jurnal ilmiah internasional bereputasi atau telah menghasilkan 2 (dua) publikasi  yang diterima dalam prosiding seminar/konferensi internasional bereputasi. Publikasi ini merupakan syarat untuk menempuh Ujian Tesis.
+
+    b.  Publikasi mahasiswa dinyatakan sah jika naskah publikasi adalah hasil (sebagian atau keseluruhan) penelitian tesis, dan ditulis dengan penulis yang terdiri atas mahasiswa tersebut dan semua dosen pembimbingnya, dengan pembimbing dari UGM sebagai *corresponding author*. Pihak-pihak yang terlibat dalam penelitian itu dapat ditambahkan sebagai penulis selanjutnya.
+
+    c.  Hasil publikasi mahasiswa dibuktikan dengan adanya prosiding seminar/konferensi internasional bereputasi atau jurnal ilmiah internasional bereputasi dengan naskah publikasi di dalamnya atau minimal *Letter of Acceptance* dan bukti registrasi/bayar dari *publisher* terhadap naskah publikasi tersebut.
+
+    d.  Hasil publikasi akan dinilai oleh tim penilai publikasi yang ditunjuk oleh Ketua Program Studi. Penilaian meliputi kredibilitas penerbit dan bobot *novelty* dan/atau kontribusi *paper*.
+
+    e.  *Paper* untuk prosiding seminar/konferensi internasional bereputasi diberi bobot 5 SKS untuk masing-masing naskah. Dengan demikian, dibutuhkan minimal 2 *paper* untuk memenuhi syarat kelulusan Publikasi 1 dan Publikasi 2.
+
+    f.  *Paper* untuk jurnal ilmiah internasional bereputasi diberi bobot 10 SKS atau dua kali publikasi (Publikasi 1 dengan bobot 5 SKS dan Publikasi 2 dengan bobot 5 SKS)  karena kira-kira membutuhkan 2 semester untuk menghasilkan sebuah *paper* jurnal internasional. Penulisan *paper* ini membutuhkan telaah yang mendalam mengenai *literature* *review* yang harus dibaca, dasar teori, metodologi, pengolahan data, sampai membuat kesimpulan. Dengan tingkat kedalaman seperti itu, maka satu naskah *paper* diberi bobot 10 SKS, dapat memenuhi syarat kelulusan Publikasi 1 dan Publikasi 2 sekaligus.
+
+5.  Tesis (6 SKS) dilaksanakan pada semester 4, yaitu sesudah mahasiswa memenuhi syarat publikasi. Keterangannya adalah sebagai berikut:
+
+    a.  Mahasiswa diwajibkan menyusun tesis sebagai syarat untuk pelaksanaan ujian tesis. Dokumen tesis harus disetujui dan ditandatangani oleh semua dosen pembimbing.
+
+    b.  Dokumen tesis disusun dan dikembangkan dari kegiatan penelitian, naskah publikasi, dan hasil terakhir yang belum dilaporkan/ditulis. Dokumen tesis harus diserahkan ke bagian akademik untuk dinilai kelayakannya oleh Tim Penilai Kelayakan Tesis.
+
+    c.  Penilaian tesis dilakukan oleh tim penilai yang ditunjuk oleh Ketua Program Magister Program Studi Teknik Elektro (PMPSTE), yang beranggotakan dosen-dosen yang sesuai dengan bidang penelitian tesis.
+
+    d.  Jika hasil penilaian kurang dari B, maka mahasiswa wajib merevisi tesis, dan kemudian harus dilakukan penilaian ulang (kembali ke nomor c). Jika hasil penilaian sama dengan B atau lebih baik, maka mahasiswa dapat melanjutkan ke proses ujian tesis setelah merevisi dokumen tesis sesuai dengan permintaan/ saran Tim Penilai.
+
+Persamaan dan perbedaan antara PMPSTE Berbasis Perkuliahan dan PMPSTE Berbasis Penelitian dinyatakan dalam @tbl-kurikulum-perbandingan. PMPSTE adalah Magister Teknik Elektro yang berbasis kuliah (*master by course*) dan diakhiri dengan tesis, sebagaimana telah berjalan selama ini.
+
+| No | Subjek | PMPSTE Berbasis Perkuliahan | PMPSTE Berbasis Penelitian |
+|:----------------:|:-----------------|:-----------------|:-----------------|
+| 1\. | Jumlah SKS | 36 | 36 |
+| 2\. | SKS kuliah | 30 | 6 |
+| 3\. | SKS penelitian | 6 | 30 |
+| 4\. | Beban SKS per semester (1, 2, 3, 4) | 12, 14, 4, 6 | 8, 11, 11, 6 |
+| 5\. | Tugas akhir | Tesis, prototipe, proyek, atau bentuk lainnya | Tesis |
+| 6\. | Syarat publikasi | Satu seminar, pameran berskala nasional atau internasional bereputasi, atau<br>satu jurnal nasional atau internasional bereputasi (sesuai PR No. 23 Th. 2024) | Minimal 2 (dua) seminar internasional bereputasi, atau<br>1 (satu) jurnal internasional bereputasi (sesuai PR No. 23 Th. 2024) |
+| 7\. | IPK Syarat Kelulusan | 3,00 | 3,25 |
+
+: Struktur Kurikulum PMPSTE Berbasis Perkuliahan vs PMPSTE Berbasis Penelitian {#tbl-kurikulum-perbandingan tbl-colwidths="\[5,20,37,38\]"}
+
+Dari @tbl-kurikulum-perbandingan terlihat bahwa baik mahasiswa PMPSTE-Berbasis Perkuliahan dan PMPSTE-Berbasis Penelitian harus menempuh 36 SKS dalam 4 semester. Perbedaan utama terletak pada jumlah perkuliahan pada jumlah SKS kuliah, SKS penelitian, syarat publikasi, dan IPK kelulusan. SKS kuliah untuk PMPSTE-Berbasis Perkuliahan adalah 30 SKS, sedangkan PMPSTE-Berbasis Penelitian adalah 6 SKS. SKS penelitian untuk PMPSTE-Berbasis Perkuliahan adalah 6 SKS, sementara PMPSTE-Berbasis Penelitian adalah 30 SKS. Pada IPK syarat kelulusan, untuk PMPSTE-Berbasis Perkuliahan adalah 3,00, sedangkan PMPSTE-Berbasis Penelitian adalah 3,25. PMPSTE-Berbasis Penelitian menekankan pada syarat publikasi yang lebih berat, yaitu minimal 2 (dua) publikasi ilmiah dalam prosiding seminar/konferensi internasional bereputasi atau 1 (satu) publikasi ilmiah dalam jurnal ilmiah internasional bereputasi, sedangkan PMPSTE-Berbasis Perkuliahan mensyaratkan minimal 1 (satu) seminar, pameran berskala nasional atau internasional bereputasi, atau 1 (satu) jurnal nasional atau internasional bereputasi dengan status minimal accepted dan registered.
+
+Relasi antara mata kuliah terhadap CPL untuk kurikulum berbasis perkuliahan dapat dilihat pada @tbl-relasi-mk-cpl.
+
+| Sem | SKS | Kode MK | Nama Mata Kuliah | CPL 1<br>*(SKL 1)* | CPL 2<br>*(SKL 1)* | CPL 3<br>*(SKL 2)* | CPL 4<br>*(SKL 2)* | CPL 5<br>*(SKL 2)* | CPL 6<br>*(SKL 2)* |
+|:------:|:------:|:-------|:-------|:------:|:------:|:------:|:------:|:------:|:------:|
+| 1 | 3 | TEE256102 | Matematika Lanjut | ✓ | ✓ |  |  |  |  |
+| 1 | 2 | TEE256101 | Statistika Lanjut | ✓ | ✓ |  |  |  |  |
+| 1 | 2 | TEE256104 | Kolaborasi dan Jejaring |  |  | ✓ | ✓ |  | ✓ |
+| 1 | 2 | TEE256105 | Metodologi Penelitian dan Proposal Tesis |  | ✓ |  |  | ✓ |  |
+| 1 | 3 | TEE256201 | Komputasi Numeris | ✓ |  |  |  |  |  |
+| 2 | 3 | TEE256103 | Pemodelan | ✓ | ✓ |  |  |  |  |
+| 2 | 3 | TEE256202 | Optimisasi Lanjut | ✓ |  |  |  |  |  |
+| 2 | 2 | TEE257101 | Etika dan Teknik Penulisan Ilmiah | ✓ | ✓ | ✓ |  | ✓ |  |
+| 2, 3 | 9 | TEE257xxx | MK Pilihan I, II, III | ✓ | ✓ |  |  |  |  |
+| 3 | 1 | TEE257201 | Seminar |  |  | ✓ | ✓ |  |  |
+| 4 | 6 | TEE257202 | Tesis |  |  | ✓ |  |  | ✓ |
+
+: Relasi Mata Kuliah terhadap CPL (Kurikulum Berbasis Perkuliahan) {#tbl-relasi-mk-cpl tbl-colwidths="\[5,5,15,33,7,7,7,7,7,7\]"}
+
+Relasi antara mata kuliah terhadap CPL untuk kurikulum berbasis penelitian dapat dilihat pada @tbl-relasi-mk-cpl-penelitian.
+
+| Sem | SKS | Kode MK | Nama Mata Kuliah | CPL 1<br>*(SKL 1)* | CPL 2<br>*(SKL 1)* | CPL 3<br>*(SKL 2)* | CPL 4<br>*(SKL 2)* | CPL 5<br>*(SKL 2)* | CPL 6<br>*(SKL 2)* |
+|:------:|:------:|:-------|:-------|:------:|:------:|:------:|:------:|:------:|:------:|
+| 1 | 2 | TEE257101 | Etika dan Teknik Penulisan Ilmiah | ✓ | ✓ | ✓ |  | ✓ |  |
+| 1 | 2 | TEE256104 | Kolaborasi dan Jejaring |  |  | ✓ | ✓ |  | ✓ |
+| 1 | 2 | TEE256105 | Metodologi Penelitian dan Proposal Tesis |  | ✓ |  |  | ✓ |  |
+| 1 | 2 | TEE256111 | Ujian Proposal Tesis |  |  | ✓ |  |  | ✓ |
+| 2 | 6 | TEE257111 | Penelitian dan Seminar Hasil 1 |  |  |  |  |  |  |
+| 2 | 5 | TEE257112 | Publikasi 1 |  |  | ✓ |  | ✓ |  |
+| 3 | 6 | TEE257211 | Penelitian dan Seminar Hasil 2 |  |  |  |  |  |  |
+| 3 | 5 | TEE257212 | Publikasi 2 |  |  | ✓ |  | ✓ |  |
+| 4 | 6 | TEE257202 | Tesis |  |  | ✓ |  |  | ✓ |
+
+: Relasi Mata Kuliah terhadap CPL (Kurikulum Berbasis Penelitian) {#tbl-relasi-mk-cpl-penelitian tbl-colwidths="\[5,5,15,33,7,7,7,7,7,7\]"}
+
+Dengan bantuan @tbl-relasi-mk-cpl dan @tbl-relasi-mk-cpl-penelitian dapat dilakukan asesmen capaian CPL per mahasiswa berdasarkan perolehan nilai mata kuliah. Program studi menyatakan bahwa CPL terwakili apabila mahasiswa dinyatakan lulus pada mata kuliah-mata kuliah tersebut. Dengan ini, nilai D adalah capaian minimal untuk menyatakan bahwa CPL terpenuhi.
+
+## Organisasi Mata Kuliah
+
+Organisasi mata kuliah terlihat pada @tbl-course-based dan @tbl-mk-pilihan . Mata kuliah prasyarat tercantum dalam silabus masing-masing mata kuliah. Silabus lengkap setiap mata kuliah dapat dilihat di bagian Lampiran. Struktur kurikulum dan total jumlah SKS program studi telah mengikuti standar acuan, yaitu Peraturan Rektor dan Undang-Undang tentang Pendidikan Tinggi.

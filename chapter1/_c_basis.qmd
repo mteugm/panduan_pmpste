@@ -1,0 +1,85 @@
+## Landasan Perubahan dan Dokumen Rujukan
+
+### Landasan Filosofis
+
+Pendidikan adalah kegiatan normatif-ideal yang meskipun bersifat individual namun pada dasarnya memberikan kontribusi pada masyarakat. Dalam kerangka ini, pendidikan perlu selaras dengan kondisi yang terjadi pada masyarakat sehingga kontribusi yang diberikan dunia pendidikan hendaknya bersifat positif bagi kemanusiaan.
+
+Lingkungan yang dihadapi masyarakat modern dapat dibagi menjadi lingkungan yang dekat dengan individu dan lingkungan yang lebih luas. Secara global, teknologi digital sangat mendominasi pergerakan masyarakat. Komputasi digital telah mampu membuat model-model kompleks menjadi *real-time*. Sebagai akibatnya, muncullah dunia baru yang bersifat maya atau dikenal dengan nama *metaverse*. Dunia maya ini menjadi nyata juga akibat kemampuan komunikasi digital dengan kecepatan tinggi. Namun meski telah lengkap, baik sarana-prasarana-perekayasa teknologi digitalnya, tanpa inovasi, tidak akan terwujud apa pun. Ketiga aspek ini bergabung menyusun visi insutrialisasi jilid empat atau dari sisi lain dinamakan visi masyarakat jilid lima. Visi global baru ini mengganggu tatanan lama pada tingkat lokal. Sehingga identitas setempat sangat mungkin terganggu. Pendidikan di PMPSTE sangat perlu untuk dapat menanggapi tantangan global namun harus tetap mampu menjaga tatanan lokal  dalam kerangka nasionalisme. Aspek pendidikan ini merupakan visi pendidikan dari Ki Hadjar Dewantara yang dikenal dengan visi nasional-universal.
+
+Pendidikan magister termaktub dalam KKNI pada level 8. Kurikulum ini disusun dengan berlandaskan pada KKNI yang di dalamnya terkandung semangat *outcome-based education*. Atribut lulusan yang dicapai saat lulus telah sebangun dengan kompetensi profesional pada jenjang kualifikasi kedelapan pada KKNI. Untuk dapat melakukan hal ini sekali lagi nilai-nilai ajaran Ki Hadjar Dewantara digunakan: Sistem *among* dan *niteni-nirokke-nambahi* (3N).
+
+Dalam kerangka 3N, mahasiswa magister diizinkan untuk lulus setelah mampu menunjukkan kemampuan kontribusi pada dunia ilmu pengetahuan atau mencapai taraf *nambahi* meskipun tidak sedalam kontribusi mahasiswa doktor. Falsafah 3N dapat pula dipandang sebagai perjalanan (*lelaku*). Mahasiswa magister di PMPSTE akan ditemani perjalanan keilmuannya sejak dari *niteni* (mengenali-mengamati), *nirokke* (menirukan), dan *nambahi* (berkontribusi) dalam pola *among*.
+
+Pola *among* yang bersifat menemani dirasa sesuai dengan jenjang pendidikan pascasarjana. Mengingat pada jenjang ini, siswa dituntut untuk mengasah sensitivitasnya baik secara *tacit* maupun eksplisit untuk menerapkan metode ilmiah pada konteks keilmuannya. Relasi dosen-mahasiswa dirasa membatasi ruang eksplorasi mahasiswa sehingga menghambat terbentuknya kemandirian. Dalam kerangka tersebut, pendidikan dengan pola *among* baik untuk diterapkan.
+
+Sebagai ringkasan, kurikulum program magister ini melandaskan pada tiga filosofi Ki Hadjar Dewantara yaitu:
+
+1.  bersifat nasional-universal sehingga selaras dengan nilai Pancasila dan UUD 1945,
+
+2.  mahasiswa dituntut untuk menjalasi filosofi *niteni-nirokke-nambahi*,
+
+3.  Dilaksanakan dengan skema *among* yang mendudukkan peran dosen sebagai teman dalam perjalanan keilmuan.
+
+### Landasan Sosiologis
+
+Perubahan kurikulum ini didasari oleh dinamika sosial yang berkembang pesat akibat transformasi digital, globalisasi, dan kemajuan teknologi yang terus berubah. Dalam konteks ini, lulusan Program Magister Program Studi Teknik Elektro dituntut untuk tidak hanya unggul dalam kompetensi teknis, tetapi juga adaptif terhadap perubahan, inovatif dalam menghadapi tantangan nyata, dan peka terhadap dampak sosial dari teknologi. Kurikulum baru perlu menanamkan kesadaran akan peran teknologi dalam kehidupan masyarakat, mendorong pemberdayaan melalui solusi keteknikelektroan. Dengan demikian, kurikulum ini diharapkan mampu mendukung pembangunan berkelanjutan dan tetap relevan dengan kebutuhan masyarakat modern.
+
+### Landasan Psikologis
+
+Dalam kurikulum ini, mahasiswa program magister dipandang sebagai pembelajar yang sudah lebih dewasa dari mahasiswa program sarjana. Secara ideal, mahasiswa magister dianggap telah matang landasan ilmu dasar yang sudah dilalui di program sarjana sehingga siap mempelajari bidang ilmu secara lebih mendalam dan mampu menerapkan metode ilmiah untuk menghasilkan kontribusi keilmuan. Dengan pemahaman ini, program magister dalam kurikulumnya akan memberikan dukungan dalam bentuk pembimbingan dengan pola asuh *among* agar setiap mahasiswa dapat meniti langkah mengikuti urutan *niteni-nirokke-nambahi*. Kurikulum akan menekankan fungsi sebagai fasilitator dan katalisator dengan dukungan fasilitas baik sarana maupun prasarana yang dapat mendukung suksesnya pendidikan magister bidang teknik elektro.
+
+### Landasan Historis
+
+Secara periodik, PMPSTE melakukan pembaruan terhadap kurikulumnya. Pada masing-masing periode, perbaikan terjadi untuk mengakomodasi poin signifikan tertentu. Kurikulum 2012 tumbuh dengan memperhatikan sudut pandang baru yaitu *outcome-based education* (OBE). Perwujudan dari sudut pandang baru tersebut muncul dari restrukturisasi mata kuliah yang lebih sederhana dan pernyataan eksplisit tentang *program educational objective* (PEO) atau standar kompetensi lulusan (SKL) serta *program objective* (PO) atau capaian pembelajaran lulusan (CPL). Kemampuan riset mahasiswa diasah dalam dua konsentrasi: 1) Sistem Tenaga Listrik (STL) dan 2) Sistem Isyarat dan Elektronis (SIE). Pengelompokan ini dilakukan dengan pertimbangan sebagai berikut.
+
+1.  Kemudahan dalam mengkonsolidasikan dan mengintegrasikan sumber daya yang ada, baik berupa kompetensi pendidik, ketersediaan penunjang pendidikan dan penelitian, serta hubungan dengan jejaring di luar.
+
+2.  Keluwesan dalam mengikuti perkembangan *state of the art* keilmuan di masing-masing bidang.
+
+Perbaikan selanjutnya dilakukan pada 2017. Pada tahun ini fokus dilakukan pada pemenuhan unsur KKNI. Pendidikan program magister teknik elektro pada PMPSTE didesain untuk mempersiapkan lulusan memiliki kompetensi berikut.
+
+1.  Mampu mengembangkan pengetahuan, teknologi di dalam bidang teknik elektro melalui riset, sehingga dapat menghasilkan karya inovatif dan teruji.
+
+2.  Mampu memecahkan permasalahan ilmu pengetahuan dan teknologi di dalam bidang teknik elektro melalui pendekatan inter atau multidisipliner.
+
+3.  Mampu mengelola riset dan pengembangan yang bermanfaat bagi masyarakat dan keilmuan, serta mampu mendapat pengakuan nasional dan internasional.
+
+Ketiga hal tersebut di atas selaras dengan deskripsi jenjang kualifikasi yang disebutkan pada Lampiran Peraturan Presiden Republik Indonesia No. 8 Tahun 2012 yang menetapkan program magister menempati level delapan dalam KKNI.
+
+Kurikulum 2022 melanjutkan perbaikan dengan memperhatikan aspek disrupsi tatanan yang terjadi akibat inovasi ilmu dan kondisi pandemi COVID-19. Pada kurikulum ini dilakukan penyesuaian dan perbaikan akibat munculnya visi revolusi industri tahap keempat (I4.0) dan revolusi sosial tahap kelima (S5.0). Untuk memenuhi tantangan tersebut, lulusan program PMPSTE diperkuat penguasaan prinsip-prinsip metode ilmiahnya dengan pendefinisian mata kuliah penunjang seperti Metodologi Penelitian dan Filsafat Ilmu serta diperluas cakrawala pandangnya dengan mata kuliah pilihan sesuai bidang penelitiannya. Selain itu, skema amongyang mendudukkan peran dosen sebagai teman dalam perjalanan keilmuan semakin diperkuat dengan beberapa inovasi program seperti mempercepat residen di laboratorium dan memperbanyak program *post-graduate symposium* agar interaksi mahasiswa dan dosen pembimbing tesis terjadi lebih awal dan semakin intensif. Kemudian, kebutuhan kompetensi alumni yang tercermin dalam *tracer study* juga menjadi landasan perubahan kurikulum, sebagaimana akan dijelaskan lebih lanjut di subbab 1.4.
+
+Kurikulum 2022 Versi Revisi-1 mengakomodasi Peraturan Rektor No. 23 Tahun 2024, bahwa jumlah SKS jenjang magister adalah 54 SKS dari yang semula 40 SKS. Tidak banyak yang berubah pada kurikulum ini. Arah kurikulum masih tetap mengacu pada Kurikulum 2022, namun terdapat beberapa kegiatan pada kurikulum ini yang semula hanya berlaku sebagai syarat kelulusan, pada kurikulum ini diberi bobot SKS. Perubahan SKS dijelaskan secara detail pada Bab 2 Struktur Kurikulum.
+
+Kurikulum 2022 Versi Revisi-2 mengakomodasi Peraturan Menteri Pendidikan Tinggi, Sains, dan Teknologi Nomor 39 Tahun 2025 tentang Penjaminan Mutu Pendidikan Tinggi dan Peraturan Dekan No. 1 Tahun 2025 tentang Pendidikan Pasca Sarjana, bahwa jumlah SKS jenjang magister adalah minimal 36 SKS dari yang semula 54 SKS. Arah kurikulum masih tetap mengacu pada Kurikulum 2022, perubahan dilakukan untuk mengakomodasai mata kuliah wajib fakultas yang tertuang dalam Peraturan Dekan No. 1 Tahun 2025. Perubahan SKS secara lebih detail dijelaskan pada Bab 2 Struktur Kurikulum.
+
+### Landasan Yuridis
+
+Rujukan aturan yang mendasari Kurikulum 2022 Versi Revisi-2 adalah:
+
+1.  Undang-undang No. 12 Tahun 2012 tentang Pendidikan Tinggi,
+
+2.  Peraturan Presiden No. 008 Tahun 2012 tentang Kerangka Kualifikasi Nasional Indonesia,
+
+3.  Peraturan Menteri Dalam Negeri No. 002 Tahun 2013 tentang Pedoman Pengembangan Sistem Pendidikan dan Pelatihan Berbasis Kompetensi,
+
+4.  Peraturan Menteri Pendidikan dan Kebudayaan No. 073 Tahun 2013 tentang Penerapan Kualifikasi Kompetensi Nasional Indonesia bidang Pendidikan Tinggi,
+
+5.  Peraturan Menteri Riset, Teknologi, dan Pendidikan Tinggi Republik Indonesia No. 50 Tahun 2018 tentang Perubahan atas Peraturan Menteri Riset, Teknologi, dan Pendidikan Tinggi No. 44 Tahun 2015 Tentang Standar Nasional Pendidikan Tinggi,
+
+6.  Peraturan Menteri Pendidikan Tinggi, Sains, dan Teknologi Nomor 39 Tahun 2025 (Permendiktisaintek Nomor 39 Tahun 2025) tentang Penjaminan Mutu Pendidikan Tinggi,
+
+7.  Peraturan Menteri Pendidikan dan Kebudayaan No. 3 Tahun 2020 tentang Standar Nasional Pendidikan Tinggi,
+
+8.  PP RI No. 67 Tahun 2013 tentang Statuta UGM,
+
+9.  Keputusan Rektor Universitas Gadjah Mada Nomor 292/P/SK/HT/2008 tentang Gelar dan Sebutan Lulusan Program Pascasarjana (S2) Universitas Gadjah Mada,
+
+10. Peraturan Rektor UGM No. 11 Tahun 2016 tentang Pendidikan Pascasarjana,
+
+11. Peraturan Rektor UGM No. 18 Tahun 2019 tentang Penyelenggaraan Program Pascasarjana Berbasis Penelitian (*by Research*) di Lingkungan Universitas Gadjah Mada,
+
+12. Peraturan Rektor UGM No. 14 Tahun 2020 tentang Kerangka Dasar Kurikulum,
+
+13. Peraturan Rektor Universitas Gadjah Mada Nomor 23 Tahun 2024 tentang Pendidikan.
+
+14. Peraturan Dekan Fakultas Teknik Universitas Gadjah Mada No. 1 Tahun 2025 tentang Pendidikan Program Pascasarjana.

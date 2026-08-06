@@ -1,0 +1,42 @@
+# Tim Penyusun {.unnumbered}
+
+|                     |                                               |
+|:--------------------|:----------------------------------------------|
+| **Program Studi**   | Program Magister Program Studi Teknik Elektro |
+| **Tahun Pengajuan** | 2025                                          |
+
+: {tbl-colwidths="\[30,70\]"}
+
+## Penanggung Jawab {.unnumbered}
+
+Prof. Ir. Hanung Adi Nugroho, S.T., M.Eng., Ph.D., IPM., SMIEEE.
+
+## Wakil Penanggung Jawab {.unnumbered}
+
+Ir. Lesnanto Multa Putranto, S.T., M.Eng., Ph.D., IPM., SMIEEE.
+
+## Ketua {.unnumbered}
+
+Prof. Dr. Ir. Risanuri Hidayat, M.Sc., IPM.
+
+## Wakil Ketua {.unnumbered}
+
+Ahmad Ataka Awwalur Rizqi, S.T., M.Eng., Ph.D.
+
+## Anggota {.unnumbered}
+
+1.  Prof. Dr. Ir. Sasongko Pramono Hadi, DEA., IPU.s
+
+2.  Dr. Ir. Mokhammad Isnaeni Bambang Setyonegoro, M.T.
+
+3.  Dr. Ir. Avrin Nur Widiastuti, S.T., M.Eng., IPM.
+
+4.  Husni Rois Ali, S.T., M.Eng., Ph.D., DIC., SMIEEE.
+
+5.  Ir. Eka Firmansyah, S.T., M.Eng., Ph.D., IPM.
+
+6.  Dzuhri Radityo Utomo, S.T., M.Sc., Ph.D.
+
+7.  Ir. Sigit Basuki Wibowo, S.T., M.Eng., Ph.D., IPM.
+
+8.  Dr. Rian Fatah Mochamad, S.T. M.Eng
